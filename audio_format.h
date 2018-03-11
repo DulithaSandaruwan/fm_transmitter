@@ -4,7 +4,7 @@
     Copyright (c) 2015, Marcin Kondej
     All rights reserved.
 
-    See https://github.com/markondej/fm_transmitter
+    See https://github.com/DulithaSandaruwan/fm_transmitter
 
     Redistribution and use in source and binary forms, with or without modification, are
     permitted provided that the following conditions are met:
